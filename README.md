@@ -17,6 +17,12 @@ Currently working on...
 - ⛰️&nbsp; &nbsp;My current project, ooze (see above)
 - 🧠&nbsp; &nbsp;My mental health
 
+<!--
+Obligitory stats image...
+
+ &nbsp; &nbsp; &nbsp; &nbsp; ![Nullicorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNullicorn&show_icons=true&theme=radical)
+-->
+
 <sub>
   
   #### Attributions 💞 
