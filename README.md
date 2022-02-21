@@ -9,7 +9,7 @@
 Hi! I dabble in Kotlin, Java and Dart, mostly for projects related to Minecraft...
 - ![NBT Icon](https://user-images.githubusercontent.com/64789500/140657790-abb66f64-ceac-4df2-9717-b63a6300cedb.png)&nbsp; &nbsp;[Nedit](https://github.com/TheNullicorn/Nedit) - a lightweight NBT library
 - ⛰️&nbsp; &nbsp;[ooze](https://github.com/ooze-world) - an alternative world format for Minecraft servers
-- 📡&nbsp; &nbsp;[ms-mca](https://github.com/TheNullicorn/ms-mca) - authenticate with Minecraft services via Microsoft access token
+- 📡&nbsp; &nbsp;[ms-to-mca](https://github.com/TheNullicorn/ms-to-mca) - authenticate with Minecraft services via Microsoft access token
 - 🏎️&nbsp; &nbsp;[MineKartz](https://github.com/TheNullicorn/MineKartz) - a (very) limited recreation of [hypixel.net](https://hypixel.net)'s minigame Turbo Kart Racers
 - ✉️&nbsp; &nbsp;[PublicAPI](https://github.com/HypixelDev/PublicAPI) - official Java client for hypixel.net's API (not my project, but I contribute to it a bunch in my free time)
 
